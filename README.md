@@ -16,7 +16,7 @@ bundle install
 
 ```
 
-Now you can run a develelopment server by the following command
+Now you can run a development server by the following command
 
 ```bash
 
