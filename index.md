@@ -10,15 +10,16 @@ This is Uma Divakaran, Assistant Professor in the Department of
 Physics at Indian Institute of Technology Palakkad, Kerala. I am a
 theoretical physicist working in the field of Non-equilibrium dynamics
 in quantum phase transitions and quantum information.  To know more
-about my research, you may look at my [CV](pages/cv_homepage.pdf)
+about my research and publications, 
+you may look at my [CV](pages/cv_homepage.pdf)
 
-My Time-line so-far
+Experience:
 
 - Ph.D, Indian Institute of Technology Kanpur (2010)
 - Alexander von Humboldt Postdoctoral Fellow, Saarbrucken, Germany (2010)
 - INSPIRE Faculty, Indian Insttute of Technology Kanpur (2013)
-- UGC-Assistant Professor, Centre for Excellence in Basic Sciences, Mumbai (2015-2016)
-- Assistant Professor, IIT Palakkad, Kerala (2016 onwards)
+- UGC-Assistant Professor, Centre for Excellence in Basic Sciences, Mumbai (2015)
+- Assistant Professor, IIT Palakkad, Kerala (2016)
 
 Teaching Experience:
 
