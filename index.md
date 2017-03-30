@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Uma Divakaran
-tagline: My Home Page
+tagline: 
 description: For me
 ---
 Hi!
