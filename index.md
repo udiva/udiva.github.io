@@ -6,10 +6,11 @@ description: For me
 ---
 Hi!
 
-This is Uma Divakaran, Assistant Professor in the Department of
+I am Uma Divakaran, Associate Professor in the Department of
 Physics at Indian Institute of Technology Palakkad, Kerala. I am a
 theoretical physicist working in the field of Non-equilibrium dynamics
-in quantum phase transitions and quantum information.  To know more
+in quantum phase transitions, open quantum systems, quantum chaos and 
+quantum information.  To know more
 about my research and publications, 
 you may look at my [CV](pages/cv_homepage.pdf)
 
