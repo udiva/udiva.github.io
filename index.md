@@ -28,6 +28,6 @@ Teaching Experience:
 - PH1010 involving Mechanics at the level of Kleppner and Kolenkov, 
 - PH1020 involving Electrostatics, Magnetostatics and Electrodynamics
  at the level of Griffiths
--PH5006, Statistical Mechanics
--PH3601, Quantum Mechanics for Engineers
--PH5610, Quantum Information and Many body systems
+- PH5006, Statistical Mechanics
+- PH3601, Quantum Mechanics for Engineers
+- PH5610, Quantum Information and Many body systems
