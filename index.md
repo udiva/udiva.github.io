@@ -24,10 +24,10 @@ Experience:
 
 Teaching Experience:
 
-- Tutor, Physics I at IIT Kanpur and CBS (Centre for Excellence in Basic Sciences), 
-  Mumbai involving Mechanics at the level of Kleppner and Kolenkov
 - Condensed Matter Physics-1, 2015-16 Semester 2, CBS, Mumbai
-- Ph1010 involving Mechanics at the level of Kleppner and Kolenkov, 
-  2016-17, Semester 1, IIT Palakkad
+- PH1010 involving Mechanics at the level of Kleppner and Kolenkov, 
 - PH1020 involving Electrostatics, Magnetostatics and Electrodynamics
- at the level of Griffiths, 2016-17 Semester 2, IIT Palakkad
+ at the level of Griffiths
+-PH5006, Statistical Mechanics
+-PH3601, Quantum Mechanics for Engineers
+-PH5610, Quantum Information and Many body systems
